@@ -1,0 +1,36 @@
+
+body{
+    background: #4ECDC4;
+    background: -webkit-linear-gradient(to right, #556270, #4ECDC4);
+    background: linear-gradient(to right, #556270, #4ECDC4); 
+}
+#main{
+    border: 5px solid white;
+    margin: 70px 130px 30px 130px;
+    font-family: 'Chakra Petch', sans-serif;
+}
+h1{
+    font-size: 65px;
+    color: white;
+    padding: 5px;
+    text-align: center;       
+}
+
+#timmer{
+    text-align: center;  
+    font-size: 25px;
+    color: white;
+}
+
+#stt{
+    text-align: center;  
+}
+
+#start{
+    font-size: 25px;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+    
+    
